@@ -12225,6 +12225,10 @@ span.select2-selection.select2-selection--single:focus {
   }
 }
 .contact-image.style2 {
+  width: 100%;
+  padding: 50px;
+}
+.contact-image.style2 {
   border-radius: 20px;
 }
 .contact-image.style2 img {
